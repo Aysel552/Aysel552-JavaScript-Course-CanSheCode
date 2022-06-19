@@ -51,7 +51,12 @@ let box = 'TOYS';
 let res = box.toLowerCase()
 console.log(res);
 
+// let text = 'Hello';
+// let user = "Sam";
+// let result = text.concat(" ", user);
+// console.log(result);
+
 let text = 'Hello';
-let user = "Sam";
+let user = "Tam";
 let result = text.concat(" ", user);
 console.log(result);
