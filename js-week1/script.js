@@ -66,7 +66,12 @@ console.log(res);
 // let result = text.concat(" ", user);
 // console.log(result);
 
+// let text = 'Hello';
+// let user = "Steve";
+// let result = text.concat(" ", user);
+// console.log(result);
+
 let text = 'Hello';
-let user = "Steve";
+let user = "Ben";
 let result = text.concat(" ", user);
 console.log(result);
