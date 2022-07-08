@@ -6,6 +6,16 @@
 // let country = "Italy";
 // alert(country)
 
+
+// let blueberries = 5;
+// blueberries = 3;
+// blueberries = 2;
+// alert(blueberries);
+
+let colleague = 'John';
+colleague = 'Jim';
+alert(colleague);
+
 // let date = "Sam";
 // console.log(typeof date);
 
@@ -51,32 +61,10 @@ let box = 'TOYS';
 let res = box.toLowerCase()
 console.log(res);
 
-// let text = 'Hello';
-// let user = "Sam";
-// let result = text.concat(" ", user);
-// console.log(result);
-
-// let text = 'Hello';
-// let user = "Tam";
-// let result = text.concat(" ", user);
-// console.log(result);
-
-// let text = 'Hello';
-// let user = "Tam";
-// let result = text.concat(" ", user);
-// console.log(result);
-
-// let text = 'Hello';
-// let user = "Steve";
-// let result = text.concat(" ", user);
-// console.log(result);
-
-// let text = 'Hello';
-// let user = "Ben";
-// let result = text.concat(" ", user);
-// console.log(result);
-
 let text = 'Hello';
-let user = "Tom";
+let user = "Sam";
 let result = text.concat(" ", user);
 console.log(result);
+
+
+alert('It is a test!')
